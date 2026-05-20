@@ -62,7 +62,7 @@ mandals using 2021 crop-area statistics.
 
 ```text
 data/           # Input boundaries and exported datasets
-scripts/     # GEE Python API scripts
 notebooks/      # Exploratory analysis and visualization
 outputs/        # Final maps, charts, workflow graphics, report
+scripts/     # GEE Python API scripts
 ```
